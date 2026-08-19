@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://www.digimanila.com"),
   title: {
     default: "DigiManila | AI Marketing Expert and Consultant",
     template: "%s | DigiManila",
